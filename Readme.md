@@ -6,3 +6,5 @@
 # 在读书籍
 * [Operating Systems - Three Easy Pieces.pdf](./pdf/Operating Systems - Three Easy Pieces.pdf)
   * [homework and project solutions](https://github.com/xxyzz/ostep-hw)
+
+* [《鸟哥的Linux私房菜-基础篇》第四版]()
