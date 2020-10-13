@@ -4,7 +4,7 @@
 * [操作系统笔记-番外-操作系统经典书籍推荐](https://www.codenong.com/cs106534426/)
 
 # 在读书籍
-* [Operating Systems - Three Easy Pieces.pdf](./pdf/Operating Systems - Three Easy Pieces.pdf)
+* [Operating Systems - Three Easy Pieces.pdf](https://raw.githubusercontent.com/xiangshuijiao/pdf/main/ebook/1-Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf)
   * [homework and project solutions](https://github.com/xxyzz/ostep-hw)
 
 * [《鸟哥的Linux私房菜-基础篇》第四版]()
